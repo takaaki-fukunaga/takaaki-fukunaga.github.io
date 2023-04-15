@@ -1,4 +1,5 @@
 # takaaki-fukunaga.github.io
+- Welcome!
 
 ## Works
 ### EXPRESSCLUSTER
@@ -6,8 +7,14 @@
 
 ## Biography
 ### 1980
-- I was born to what?
+- I was born.
 
 ### 2005
-- I have started to work for NEC.
+- I started to work for [NEC](https://jpn.nec.com) in Tokyo.
+- I joined CLUSTERPRO group as technical support engineer.
 
+### 2008
+- I moved to Hirosima.
+
+### 2019 to Now
+- I still work for CLUSTERPRO Group.
