@@ -16,5 +16,8 @@
 ### 2008
 - I moved to Hirosima.
 
+### 2012
+- I moved back in Tokyo.
+
 ### 2019 to Now
 - I still work for CLUSTERPRO Group.
