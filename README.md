@@ -1,23 +1,27 @@
 # takaaki-fukunaga.github.io
-- Welcome!
+- Welcome! I'm Takaaki Fukunaga.
 
 ## Works
-### EXPRESSCLUSTER
-- [https://github.com/expresscluster](https://github.com/expresscluster)
+### CLUSTERPPRO/EXPRESSCLUSTER
+- CLUSTERPRO is a HA (High-Availability) software in Japan. EXPRESSCLUSTER is a name for overseas. 
+- GitHub
+  - [https://github.com/expresscluster](https://github.com/expresscluster)
+- Website
+  - CLUSTERPRO: [https://jpn.nec.com/clusterpro/index.html](https://jpn.nec.com/clusterpro/index.html)
+  - EXPRESSCLUSTER: [https://www.nec.com/en/global/prod/expresscluster/index.html](https://www.nec.com/en/global/prod/expresscluster/index.html)
+
 
 ## Biography
-### 1980
-- I was born.
-
-### 2005
-- I started to work for [NEC](https://jpn.nec.com) in Tokyo.
-- I joined CLUSTERPRO group as technical support engineer.
-
-### 2008
-- I moved to Hirosima.
-
-### 2012
-- I moved back in Tokyo.
-
-### 2019 to Now
-- I still work for CLUSTERPRO Group.
+- 1980 June
+  - I was born.
+### NEC Corporation
+- 2005 April - 2008 March
+  - Technical Support Engineer
+### NEC System Tecnhnologies
+- 2008 April - 2012 March
+  - Software Developer
+### NEC Corporation
+- 2012 April - 2019 March
+  - Technical Support Engineer
+- 2019 April - Present
+  - Product Manager
