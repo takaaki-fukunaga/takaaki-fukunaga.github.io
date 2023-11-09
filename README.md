@@ -1,5 +1,5 @@
-# takaaki-fukunaga.github.io
-- Welcome! I'm Takaaki Fukunaga.
+# Welcome!
+- Hi! I'm Takaaki Fukunaga.
 
 ## Works
 ### CLUSTERPPRO/EXPRESSCLUSTER
@@ -10,21 +10,22 @@
   - CLUSTERPRO: [https://jpn.nec.com/clusterpro/index.html](https://jpn.nec.com/clusterpro/index.html)
   - EXPRESSCLUSTER: [https://www.nec.com/en/global/prod/expresscluster/index.html](https://www.nec.com/en/global/prod/expresscluster/index.html)
 
-
-## Biography
-- 1980 June
-  - I was born.
-
+## Experience
 ### NEC Corporation
-- 2005 April - 2008 March
+- Apr 2005 - Mar 2008
   - Technical Support Engineer
 
 ### NEC System Tecnhnologies
-- 2008 April - 2012 March
+- Apr 2008 - Mar 2012
   - Software Developer
 
 ### NEC Corporation
-- 2012 April - 2019 March
+- Apr 2012 - Mar 2019
   - Technical Support Engineer
-- 2019 April - Present
+- Apr 2019 - Sep 2023
   - Product Manager
+
+### Cybertrust Japan
+- Oct 2023 - Present
+  - IoT Engineer
+  
