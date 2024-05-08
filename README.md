@@ -1,40 +1,43 @@
 # Welcome!
 - Hi! I'm Takaaki Fukunaga.
 
-## Works
-### CLUSTERPPRO/EXPRESSCLUSTER
+# Works
+## CLUSTERPPRO/EXPRESSCLUSTER
 - CLUSTERPRO is a HA (High-Availability) software in Japan. EXPRESSCLUSTER is a name for overseas. 
 
-#### GitHub
+### GitHub
 - [https://github.com/expresscluster](https://github.com/expresscluster)
 
-#### Website
+### Website
 - CLUSTERPRO: [https://jpn.nec.com/clusterpro/index.html](https://jpn.nec.com/clusterpro/index.html)
 - EXPRESSCLUSTER: [https://www.nec.com/en/global/prod/expresscluster/index.html](https://www.nec.com/en/global/prod/expresscluster/index.html)
 
-### Others
-#### GitHub
+## Others
+### GitHub
 - [https://github.com/fukunagt](https://github.com/fukunagt)
+  - This repository is related with NEC account.
+- [https://github.com/takaaki-fukunaga](https://github.com/takaaki-fukunaga)
+  - This repository is my private repository.
 
-#### Qiita
+### Qiita
 - [https://qiita.com/fukunagt](https://qiita.com/fukunagt)
 
-## Experience
-### NEC Corporation
+# Experience
+## NEC Corporation
 - Apr 2005 - Mar 2008
   - Technical Support Engineer
 
-### NEC System Tecnhnologies
+## NEC System Tecnhnologies
 - Apr 2008 - Mar 2012
   - Software Developer
 
-### NEC Corporation
+## NEC Corporation
 - Apr 2012 - Mar 2019
   - Technical Support Engineer
 - Apr 2019 - Sep 2023
   - Product Manager
 
-### Cybertrust Japan
+## Cybertrust Japan
 - Oct 2023 - Present
   - IoT Engineer
   
