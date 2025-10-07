@@ -38,9 +38,12 @@
   - Product Manager
 
 ## Cybertrust Japan
-- Oct 2023 - Present
+- Oct 2023 - Sep 2025
   - IoT Engineer
-  
+
+## NEC Corporation
+- Oct 2025 - Present
+  - Software Engineer
 
 # Personality
 ## CliftonStrengths 34
