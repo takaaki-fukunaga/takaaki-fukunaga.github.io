@@ -6,18 +6,16 @@
 - CLUSTERPRO is a HA (High-Availability) software in Japan. EXPRESSCLUSTER is a name for overseas. 
 
 ### GitHub
-- [https://github.com/expresscluster](https://github.com/expresscluster)
+- [CLUSTERPRO](https://github.com/CLUSTERPRO)
 
 ### Website
-- CLUSTERPRO: [https://jpn.nec.com/clusterpro/index.html](https://jpn.nec.com/clusterpro/index.html)
-- EXPRESSCLUSTER: [https://www.nec.com/en/global/prod/expresscluster/index.html](https://www.nec.com/en/global/prod/expresscluster/index.html)
+- [CLUSTERPRO](https://jpn.nec.com/clusterpro/index.html)
+- [EXPRESSCLUSTER](https://www.nec.com/en/global/prod/expresscluster/index.html)
 
 ## Others
 ### GitHub
-- [https://github.com/fukunagt](https://github.com/fukunagt)
-  - This repository is related with NEC account.
-- [https://github.com/takaaki-fukunaga](https://github.com/takaaki-fukunaga)
-  - This repository is my private repository.
+- [takaaki-fukunaga](https://github.com/takaaki-fukunaga)
+  - This is my private repository.
 
 ### Qiita
 - [https://qiita.com/fukunagt](https://qiita.com/fukunagt)
